@@ -15,7 +15,7 @@ function App() {
                 <Results input={userInput} />
             ) : (
                 <p className="error-message">
-                    Please enter a duration greater than 0
+                    Please enter a duration greater than $0
                 </p>
             )}
         </>
